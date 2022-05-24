@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fe419586-f4fd-4e3c-b165-a1a1dba72bda}</ProjectGuid>
-    <RootNamespace>HW4</RootNamespace>
+    <ProjectGuid>{04eb1bc1-5768-4d81-bcbb-1fa31ed73475}</ProjectGuid>
+    <RootNamespace>WH4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HW4.c" />
+    <ClCompile Include="WH4.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
